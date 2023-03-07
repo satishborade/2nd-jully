@@ -6,9 +6,7 @@ public class newclass {
 		
 		System.out.println("TC01");
 		System.out.println("TC02");
-		System.out.println("TC03");
-		System.out.println("TC04");
-		
+				
 		
 	}
 
